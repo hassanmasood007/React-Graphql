@@ -1,0 +1,50 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "frontendmaster"
+  },
+  "pet": [
+    {
+      "id": "1",
+      "createdAt": "23423423",
+      "name": "hassan",
+      "type": "CAT",
+      "user": "asdasdasdasdas"
+    },
+    {
+      "id": "2",
+      "createdAt": "5564564",
+      "name": "ahmed",
+      "type": "DOG",
+      "user": "asdasdasdasdas"
+    },
+    {
+      "id": "QBO0xtkST1m_HN53BY1Vv",
+      "createdAt": 1637413069335,
+      "name": "Itachi",
+      "type": "crow",
+      "user": "asdasdasdasdas"
+    },
+    {
+      "id": "ErlEI-5mtsoUS9xdXYKGO",
+      "createdAt": 1637413129437,
+      "name": "Itachi",
+      "type": "crow",
+      "user": "asdasdasdasdas"
+    },
+    {
+      "id": "lxqMiNCNoMCMI-oUrnFqk",
+      "createdAt": 1637413192865,
+      "name": "sasuke",
+      "type": "crow",
+      "user": "asdasdasdasdas"
+    },
+    {
+      "id": "epT5HNrdWayWtso0CzzlL",
+      "createdAt": 1637413216250,
+      "name": "sasuke",
+      "type": "crow",
+      "user": "asdasdasdasdas"
+    }
+  ]
+}
